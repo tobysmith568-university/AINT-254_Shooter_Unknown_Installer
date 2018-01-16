@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AINT-254_Shooter_Unknown_Installer", "AINT-254_Shooter_Unknown_Installer\AINT-254_Shooter_Unknown_Installer.vdproj", "{E3BDCFE4-366E-4374-8BED-7DE6242811F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3BDCFE4-366E-4374-8BED-7DE6242811F0}.Debug|Default.ActiveCfg = Debug
+		{E3BDCFE4-366E-4374-8BED-7DE6242811F0}.Debug|Default.Build.0 = Debug
+		{E3BDCFE4-366E-4374-8BED-7DE6242811F0}.Release|Default.ActiveCfg = Release
+		{E3BDCFE4-366E-4374-8BED-7DE6242811F0}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0E448A-046D-4B39-BAD4-0B60B553478A}
+	EndGlobalSection
+EndGlobal
